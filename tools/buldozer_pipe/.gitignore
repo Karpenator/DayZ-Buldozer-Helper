@@ -1,0 +1,6 @@
+# Дампы и отчёты разведки канала — не в репозиторий
+*.log
+*.txt
+captures/
+probe_*.log
+report*.txt
